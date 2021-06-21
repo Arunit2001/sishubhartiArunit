@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+
+.header-area{
+    height: fit-content;
+}
+
+#sishu_about_school, #sishu_features, #sishu_facilities{
+    padding-top: 30px;
+}

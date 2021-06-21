@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+
+.header-area{
+    height: fit-content;
+}
+
+#sishu_coop, #sishu_vision, #sishu_parent_committee, #sishu_transport{
+    padding-top: 30px;
+}

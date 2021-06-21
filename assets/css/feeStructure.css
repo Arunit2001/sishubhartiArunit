@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+
+.header-area{
+    height: fit-content;
+}
+
+#sishu_feeStructure{
+    padding-top: 30px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }

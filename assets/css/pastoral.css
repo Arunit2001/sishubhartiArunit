@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+
+.header-area{
+    height: fit-content;
+}
+
+#sishu_medical, #sishu_councellor, #sishu_safety{
+    padding-top: 30px;
+}
