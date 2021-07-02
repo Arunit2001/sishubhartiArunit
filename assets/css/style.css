@@ -635,11 +635,11 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s; }
 
-  .sishu_dropdown_main:hover .sishu_dropdown_content{
+  .shishu_dropdown_main:hover .shishu_dropdown_content{
     display: block;
   }
 
-  .sishu_dropdown_content{
+  .shishu_dropdown_content{
     display: none;
     position: absolute;
     background: #b7b7a4;
@@ -648,7 +648,7 @@ p {
     z-index: 1;
   }
 
-  .sishu_dropdown_content li{
+  .shishu_dropdown_content li{
     float: none;
     color: black;
     padding: 1px 1px;
@@ -658,7 +658,7 @@ p {
   }
 
 
-  .sishu_dropdown_content li:hover{
+  .shishu_dropdown_content li:hover{
     /* background : linear-gradient(to right, #43cae9 0%, #38f9d7 10%); */
     background-color: #a5a58d;
   }
